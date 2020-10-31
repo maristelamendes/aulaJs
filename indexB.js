@@ -1,5 +1,5 @@
-var num =6; 
-var num1 =3;
+let num =6; 
+let num1 =3;
 
 if (num==num1);{
   console.log ("os números são iguais")
